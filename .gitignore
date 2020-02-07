@@ -1,0 +1,5 @@
+### IntelliJ ###
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+*.iml
